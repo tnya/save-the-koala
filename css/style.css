@@ -7,7 +7,14 @@ army green: 41521F;
 	margin:0;
 	padding:0;
 }
+
+/* NAVBAR */	
+
+.logo{
+	padding-left: 130px;
+}
 /* FIRST SECTION */
+
 
 .first-section{
 	background-image: url(../img/portada.jpg);
@@ -18,7 +25,7 @@ army green: 41521F;
 
 .sec-save{
 	color:white;
-	padding-top: 300px;
+	padding-top: 200px;
 
 }
 
@@ -29,5 +36,9 @@ army green: 41521F;
 }
 
 /* SECOND SECTION */
+
+/* THIRD SECTION */
+
+/* FOURTH SECTION */
 
 
