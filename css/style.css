@@ -10,9 +10,19 @@ army green: 41521F;
 
 /* NAVBAR */	
 
+
 .logo{
 	padding-left: 130px;
 }
+
+.navbar-default {
+	background-color:transparent;
+	border-color:transparent;
+	background-image:none;
+	box-shadow:none;	
+}
+
+
 /* FIRST SECTION */
 
 
@@ -27,6 +37,7 @@ army green: 41521F;
 	color:white;
 	padding-top: 200px;
 
+
 }
 
 .btn-default {
@@ -37,8 +48,96 @@ army green: 41521F;
 
 /* SECOND SECTION */
 
+.koala3{
+	width: 100%;
+}
+
+.sec-foundation{
+	padding: 100px;
+}
+.sec-foundation h1, h3{
+	color:#A89F68;
+
+}
+.foundation-info{
+	padding: 30px;
+	margin-top:100px;
+
+
+}
+.see-more{
+	color:#A89F68;
+}
 /* THIRD SECTION */
+
+.third-section{
+	background-color: #A89F68;
+	padding: 100px;
+
+}
+.koala4{
+	border: 10px solid white;
+	width:400px;
+}
 
 /* FOURTH SECTION */
 
+#help-koalas{
+	background-image: url(../img/all.jpg);
+	height: 120vh;
+	background-size:cover;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+
+.help-koalas-text{
+	padding-top:40px;
+	color:#fff;
+}
+.help-koalas-text h3{
+	color:#fff;
+}
+
+/* FIFTH SECTION */
+
+.fifth-section {
+	padding: 70px 0;
+	text-align: center;
+}
+
+
+.fifth-section i,h3,a{
+	color: #A89F68;
+}
+
+.how-help-list{
+	padding-top:50px;
+}
+
+
+/* SIXTH SECTION */
+
+/* FINAL SECTION */
+
+#about{
+	background-color: #41521F;
+	padding-top: 100px;
+}
+#about h4{
+	color:#A89F68;
+}
+
+.links-footer a{
+	color:#A89F68;
+	text-decoration: none;
+
+}
+.links-footer{
+	list-style: none;
+	
+	padding-left:50px;
+}
+#about p{
+	color:#fff;
+}
 
