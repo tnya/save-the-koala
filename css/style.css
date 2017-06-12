@@ -90,7 +90,7 @@ a.navbar-brand.logo {
 	border: 10px solid white;
 	width:400px;
 }
-.sec-easy-help h4,p{
+.easy-help {
 	color:#fff;
 	font-size: 12px;
 }
@@ -166,7 +166,8 @@ a.navbar-brand.logo {
 
 #about{
 	background-color: #41521F;
-	padding-top: 100px;
+	padding: 80px 0;
+	
 }
 #about h4{
 	color:#A89F68;
