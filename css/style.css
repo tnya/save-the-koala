@@ -166,6 +166,17 @@ a.navbar-brand.logo {
 .aud{
 	font-size: 15px;
 }
+
+.text-collapse{
+	height: 44px;
+    width: 365px;
+    padding: 12px;
+    margin-top: 14px;
+	background:#41521F;
+	color:#fff;
+}
+
+
 /* FINAL SECTION */
 
 #about{
