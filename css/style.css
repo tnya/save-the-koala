@@ -57,6 +57,9 @@ a.navbar-brand.logo {
 }
 
 /* SECOND SECTION */
+#foundation{
+	margin-top: -117px;;
+}
 
 .koala3{
 	width: 100%;
@@ -148,6 +151,8 @@ a.navbar-brand.logo {
 	color:#41521F;
 	padding-bottom: 20px;
 	padding-top: 120px;
+	margin-top: -38px;
+    padding-bottom: 38px;
 }
 .sec-donate p{
 	font-size:12px;
@@ -175,7 +180,6 @@ a.navbar-brand.logo {
 	background:#41521F;
 	color:#fff;
 }
-
 
 /* FINAL SECTION */
 
